@@ -11,4 +11,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-4CAF50?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Life means running, running from something, running to something or running to someone.
+Fight the dead, fear the living.
