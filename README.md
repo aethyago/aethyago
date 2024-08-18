@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Eu sou o Thyago ✌ | Hello! I'm Thyago ✌
 
-<!--
-**aethyago/aethyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://github.com/heythyago/)](https://github.com/heythyago/)
 
-Here are some ideas to get you started:
+![AeThyago GitHub stats](https://github-readme-stats.vercel.app/api?username=heythyago&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso frequentemente
+
+<div style="display: inline_block">
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-0453ca?style=for-the-badge&logo=python&logoColor=yellow" />
+</div><br/>
+
+Life means running, running from something, running to something or running to someone.
