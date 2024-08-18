@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thyago ✌ | Hello! I'm Thyago ✌
 
-[![Blog](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://github.com/heythyago/)](https://github.com/heythyago/)
+[![Discord](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https://github.com/heythyago/)](https://discord.gg/55ce2b4SS2)
 
 ![AeThyago GitHub stats](https://github-readme-stats.vercel.app/api?username=heythyago&show_icons=true&theme=tokyonight)
 
