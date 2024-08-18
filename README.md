@@ -4,7 +4,7 @@
 
 ![AeThyago GitHub stats](https://github-readme-stats.vercel.app/api?username=heythyago&show_icons=true&theme=tokyonight)
 
-# Tecnologias que eu uso frequentemente | Technologies I use frequently
+## <small>Tecnologias que eu uso frequentemente | Technologies I use frequently</small>
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
